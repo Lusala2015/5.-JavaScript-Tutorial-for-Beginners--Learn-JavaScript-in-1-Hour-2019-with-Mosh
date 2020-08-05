@@ -31,3 +31,7 @@ person['name'] = 'Mary';
 
 console.log(person.name);
 
+//ARRAYS 
+let selectorColors = ['bread','glue'];
+selectorColors[2] = 'han';
+console.log(selectorColors.length);
