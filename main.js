@@ -5,3 +5,10 @@ console.log('Hello world');
 //STORES DATA TEMPORALLY IN THE MEMORY
 let name = "Mark";
 document.write(name);
+
+
+// CONSTANTS   
+const intrestRate = 2;
+document.write(intrestRate);
+
+
