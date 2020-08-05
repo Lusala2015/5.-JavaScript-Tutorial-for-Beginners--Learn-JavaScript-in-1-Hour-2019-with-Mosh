@@ -45,7 +45,6 @@ function greet(name){
 greet('Lusala');
 greet('Faith');
 
-
 //types of functions 
 //Calculating a value 
 function square(number){
