@@ -11,4 +11,4 @@ document.write(name);
 const intrestRate = 2;
 document.write(intrestRate);
 
-
+// PRIMITIVES 
