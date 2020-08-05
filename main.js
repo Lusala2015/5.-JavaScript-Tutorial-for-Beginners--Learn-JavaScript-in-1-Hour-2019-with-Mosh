@@ -35,3 +35,11 @@ console.log(person.name);
 let selectorColors = ['bread','glue'];
 selectorColors[2] = 'han';
 console.log(selectorColors.length);
+
+//FUNCTIONS 
+function greet(name){
+    console.log('Hello ' + name);
+}
+
+greet('Lusala');
+greet('Faith');
