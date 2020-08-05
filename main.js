@@ -11,4 +11,23 @@ document.write(name);
 const intrestRate = 2;
 document.write(intrestRate);
 
-// PRIMITIVES 
+/*   Reference types:
+        Objects 
+        Array 
+        Functions 
+*/ 
+
+//objects 
+let person ={
+    name : 'mark',
+    age : 25
+};
+//Dot   Notation 
+ person.name = 'John';
+console.log(person.name);
+
+// Bracket Notation 
+person['name'] = 'Mary';
+
+console.log(person.name);
+
